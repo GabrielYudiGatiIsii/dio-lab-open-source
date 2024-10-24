@@ -4,7 +4,7 @@ Desenvolvedor full stack em início de formação. Sou jornalista formado pela P
 
 ### Conecte-se comigo
 
-[![Perfil DIO]https://web.dio.me/users/gabrielyudigatiisii?tab=achievements
+[![Perfil DIO](https://web.dio.me/users/gabrielyudigatiisii?tab=achievements)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:gabrielyudigatiisii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/gabrielyudigatiisii/)
 
